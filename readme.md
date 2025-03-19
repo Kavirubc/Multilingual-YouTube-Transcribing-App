@@ -107,17 +107,6 @@ http://localhost:8000
 3. Enter a YouTube URL, click "Process Video", and wait for the transcription to complete.
 4. View the transcript on the page and download it using the download button.
 
-## Example Output
-
-```
-<CGSourcedDoc "source": "https://youtu.be/77K-3HUWNBg?si=GPh3P-USOfyLYPEO">
-Title: එක රටක් ආණ්ඩු දෙකක්
-Date: 19 March 2025.
-Speakers: [Speakers information not available]
-Transcript: පළවෙනි දා Tower රඟහලේදී හවස හයට මෝඩඅභිමානය 5.0 ජයට තියෙනවා මේ සැරෙත් ටිකට් ගත්තු නැති අය අරන් එන්න ලෑස්ති වෙලා. Ticket ministry එකේ අ දාලා තියෙනවා tickets. Link එකත් ඇති description එකේ කොහේ හරි. අපේ fb profile වල අරහෙමත් ප්‍රසිද්ධ කරලා තියෙන්නේ...
-```
-
-
 ## Troubleshooting
 
 ### Common Issues
